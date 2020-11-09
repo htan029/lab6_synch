@@ -104,3 +104,138 @@ Test 2: "This test will run second."...passed
 ==================================================
 Passed 2/2 tests. Skipped 0 tests.
 ==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 0 '\000'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 0 '\000'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 0 '\000'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 0 '\000'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 6 '\006'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 0 but got 7 '\a'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 0 but got 7 '\a'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 0 but got 7 '\a'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 8 but got 9 '\t'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 9 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...failed.
+	Expected PORTB := 7 but got 8 '\b'
+==================================================
+Passed 1/2 tests. Skipped 0 tests.
+==================================================
+==================================================
+Test 1: "This test will run first."...passed
+==================================================
+Test 2: "This test will run second."...passed
+==================================================
+Passed 2/2 tests. Skipped 0 tests.
+==================================================
